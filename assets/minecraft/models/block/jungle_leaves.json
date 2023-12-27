@@ -1,9 +1,1 @@
-{
-  "parent": "minecraft:block/leaves_cross",
-  "textures": {
-		"bushy2": "block/jungle_leaves_bushy2",
-		"bushy": "block/jungle_leaves_bushy",
-		"particle": "block/jungle_leaves",
-		"cube": "block/jungle_leaves"
-  }
-}
+{    "__comment": "Created by JWire modified by EleKTriiK",    "parent": "block/leaves",    "textures": {        "particle": "block/jungle_leaves",        "bleaves": "block/better_leaves_jungle",        "block": "block/jungle_leaves"    }}
