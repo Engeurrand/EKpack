@@ -45,3 +45,4 @@
 - 3D bookshelves
 - Smoother wool
 - Glass
+- Villager texture
