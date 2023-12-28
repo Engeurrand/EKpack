@@ -1,9 +1,9 @@
-#To DO
+# To DO
 - Better gui
 - Stacked item return (for arrows at least)
 
-#Minecraft Java 1.20.2
-##Added
+# Minecraft Java 1.20.2
+## Added
 - Sand
 - Glowing item frame
 - Netherite tools
@@ -33,7 +33,7 @@
 - Daylight sensor level
 - Chiseled quartz
 
-##Updated
+## Updated
 - Chest
 - Stone tools
 - Wooden tools
@@ -51,7 +51,7 @@
 - Leaves
 - Bushy leaves effect
 
-##Removed
+## Removed
 - Sandstone CTM
 - Glass CTM
 - Various sounds
