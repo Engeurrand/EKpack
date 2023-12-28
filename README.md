@@ -1,8 +1,11 @@
 # To DO
-- Better gui
+- Better GUI
 - Stacked item return (for arrows at least)
+- New trapped chest texture
 
 # Minecraft Java 1.20.2
+Turned the pack into an add-on rather than a full resource pack
+
 ## Added
 - Sand
 - Glowing item frame
@@ -27,11 +30,12 @@
 - Visible weeping vines age
 - Specific mansion map
 - Specific ocean monument map
-- Specific burried treasure map
+- Specific buried treasure map
 - Compostor fill level
 - Farmland moist level
 - Daylight sensor level
 - Chiseled quartz
+- No spyglass overlay
 
 ## Updated
 - Chest
@@ -52,7 +56,56 @@
 - Bushy leaves effect
 
 ## Removed
+Removed not working or not coherent texture variation, 3D and ctm.
 - Sandstone CTM
 - Glass CTM
 - Various sounds
 - Stacked items
+- Block Variations
+- Conquest leaves
+- Conquest bushy leaves
+- Birch door
+- Saturated lava
+- Potion effects
+- Colormap
+- 3D doors
+- 3D trapdoors
+- 3D furnace
+- 3D rails
+- 3D cauldron
+- 3D bookshelves
+- Smoother wool
+- Glass
+
+# Minecraft Java 1.14
+
+- Blue enchanting table
+- Blue book for enchanting table
+- Blue golden apple
+- Blue enchanted golden apple
+- Blue ender pearl
+- No slime in magma cream
+- no pumpkin blur
+- clear underwater vision
+- Bright Watermelon
+- Colored text
+- Block breaking texture
+- Custom death message
+- Grass and flowers from Johnsmith
+- Cactus
+- Sugar canes
+- Glass
+- Bow sound
+- Anvil sound
+- Anvil color change with damage
+- Onigiri Sky
+- Onigiri weapons
+- Onigiri tools
+- Onigiri-inspired golden tools
+- Onigiri Stonebircks
+- Onigiri-inspired end bricks
+- Onigiri-inspired red nether bricks
+- Stackable items
+- Trapped chest texture
+- Thinner forcefield
+- Sapling growth stage
