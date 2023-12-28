@@ -76,6 +76,9 @@ Removed not working or not coherent texture variation, 3D and ctm.
 - 3D bookshelves
 - Smoother wool
 - Glass
+- Potatoes
+- Carrots
+- Beetroots
 
 # Minecraft Java 1.14
 
