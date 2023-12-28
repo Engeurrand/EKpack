@@ -1,0 +1,47 @@
+# Minecraft Java 1.14
+
+- Blue enchanting table
+- Blue book for enchanting table
+- Blue golden apple
+- Blue enchanted golden apple
+- Blue ender pearl
+- No slime in magma cream
+- no pumpkin blur
+- clear underwater vision
+- Bright Watermelon
+- Colored text
+- Block breaking texture
+- Custom death message
+- Grass and flowers from Johnsmith
+- Cactus
+- Sugar canes
+- Glass
+- Bow sound
+- Anvil sound
+- Anvil color change with damage
+- Onigiri Sky
+- Onigiri weapons
+- Onigiri tools
+- Onigiri-inspired golden tools
+- Onigiri Stonebircks
+- Onigiri-inspired end bricks
+- Onigiri-inspired red nether bricks
+- Stackable items
+- Trapped chest texture
+- Thinner forcefield
+- Sapling growth stage
+- Block Variations
+- Conquest leaves
+- Conquest bushy leaves
+- Birch door
+- Saturated lava
+- Potion effects
+- Colormap
+- 3D doors
+- 3D trapdoors
+- 3D furnace
+- 3D rails
+- 3D cauldron
+- 3D bookshelves
+- Smoother wool
+- Glass
