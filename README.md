@@ -2,6 +2,8 @@
 - Better GUI
 - Stacked item return (for arrows at least)
 - New trapped chest texture
+- Suspicious Gravel
+- round non-strip wood
 
 # Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
@@ -14,6 +16,7 @@ Turned the pack into an add-on rather than a full resource pack
 - Netherite armor
 - Hunger indicator on food
 - Emissive textures (glowing textures)
+- Emissive textures ores
 - Accurate scaffolding
 - biome dependant campfire
 - 2D bed icons
@@ -112,3 +115,4 @@ Removed not working or not coherent texture variation, 3D and ctm.
 - Trapped chest texture
 - Thinner forcefield
 - Sapling growth stage
+- Villager texture
