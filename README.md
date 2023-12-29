@@ -68,6 +68,7 @@ Turned the pack into an add-on rather than a full resource pack
 - No spyglass overlay
 
 ## Updated
+- Pack thumbnail
 - Fixed lilypads
 - Chest
 - Stone tools
