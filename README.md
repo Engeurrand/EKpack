@@ -15,6 +15,7 @@
 Turned the pack into an add-on rather than a full resource pack
 
 ## Added
+- Icons on enchantment text
 - End custom sky
 - Sand
 - Glowing item frame
