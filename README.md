@@ -1,4 +1,17 @@
-# To Do
+The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of various online ressoruces and custom creation from its author.
+
+### Credit:
+    - Sama faithful
+	- John Smith
+	- Conquest
+	- Onigiri pack
+	- Soartex
+	- Davpack
+
+
+# Changelog
+
+## To Do
 - Fix villager GUI
 - Stacked item return (for arrows at least)
 - New trapped chest texture
@@ -26,10 +39,10 @@
 - Sugar_cane biome dependancy do not work anymore
 - Move crossbow file to optifine folder
 
-# Minecraft Java 1.20.2
+## Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
 
-## Added
+### Added
 - Mossy cobblestone moss color change in nether biomes
 - Nether portal color change in nether biomes
 - Custom potion cork depending on effect (longer duration or stronger effect)
@@ -67,7 +80,7 @@ Turned the pack into an add-on rather than a full resource pack
 - Chiseled quartz
 - No spyglass overlay
 
-## Updated
+### Updated
 - Pack thumbnail
 - Fixed lilypads
 - Chest
@@ -87,7 +100,7 @@ Turned the pack into an add-on rather than a full resource pack
 - Leaves
 - Bushy leaves effect
 
-## Removed
+### Removed
 Removed not working or not coherent texture variation, 3D and ctm.
 - Sandstone CTM
 - Glass CTM
@@ -112,7 +125,7 @@ Removed not working or not coherent texture variation, 3D and ctm.
 - Carrots
 - Beetroots
 
-# Minecraft Java 1.14
+## Minecraft Java 1.12
 
 - Blue enchanting table
 - Blue book for enchanting table
