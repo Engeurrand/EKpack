@@ -9,9 +9,9 @@
 - Totem of undying green part emissive
 - Glittering watermelon, glittering part should be emissive
 - Nether portal color biome dependant (red in crimson forest, blue in warped forest, soul fire color in soul sand valley, dark/black in basalt delta, deault in other biome) cf: https://minecraft.fr/wp-content/uploads/2020/04/new-default-plus-nether.jpg
-- Better end sky
 - Bucket matching the fish inside (axolotl and tropical fish)
 - Suspicious stew custom texture for each type of stew
+- nether wart blue in warped forest and soul sand valley
 - Custom appearance for enchanted items (flame if enchanted with fire aspect, wider blade for sweeping edge, etc.) cf: https://www.planetminecraft.com/texture-pack/armor-amp-tools-visual-enchantments-and-durability/
   - Tools ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-tools/
   - Weapons ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-weapons/
@@ -29,6 +29,8 @@
 Turned the pack into an add-on rather than a full resource pack
 
 ## Added
+- Nether portal color change in nether biomes
+- Custom potion cork depending on effect (longer duration or stronger effect)
 - Immersive GUI
 - Icons on enchantment text
 - End custom sky
