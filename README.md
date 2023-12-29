@@ -22,13 +22,15 @@
   - lightning - channeling
   - bubbles - respiration
 - Locked hopper texture
-- Tipped arrow texture depending on potion effect
+- Tipped arrow texture depending on potion effect (not just colors, icons)
+
 
 
 # Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
 
 ## Added
+- Mossy cobblestone moss color change in nether biomes
 - Nether portal color change in nether biomes
 - Custom potion cork depending on effect (longer duration or stronger effect)
 - Immersive GUI
