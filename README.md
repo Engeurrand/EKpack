@@ -1,14 +1,21 @@
-# To DO
+# To Do
 - Better GUI
 - Stacked item return (for arrows at least)
 - New trapped chest texture
 - Suspicious Gravel
 - round non-strip wood
+- Jukebox have no cd when not playing music
+- Emiissive texture for glowstone should onyl be the highlight
+- Totem of undying green part emissive
+- Glittering watermelon, glittering part should be emissive
+- Nether portal color biome dependant (red in crimson forest, blue in warped forest, soul fire color in soul sand valley, dark/black in basalt delta, deault in other biome, cf: https://minecraft.fr/wp-content/uploads/2020/04/new-default-plus-nether.jpg)
+- Take end sky from new default+
 
 # Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
 
 ## Added
+- End custom sky
 - Sand
 - Glowing item frame
 - Netherite tools
