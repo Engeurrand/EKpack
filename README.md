@@ -18,8 +18,6 @@ The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of va
 - Suspicious Gravel
 - Cherry log_top should be round
 - Jukebox have no cd when not playing music
-- Emiissive texture for glowstone should onyl be the highlight
-- Totem of undying green part emissive
 - Glittering watermelon, glittering part should be emissive
 - Nether portal color biome dependant (red in crimson forest, blue in warped forest, soul fire color in soul sand valley, dark/black in basalt delta, deault in other biome) cf: https://minecraft.fr/wp-content/uploads/2020/04/new-default-plus-nether.jpg
 - Bucket matching the fish inside (axolotl and tropical fish)
@@ -43,6 +41,8 @@ The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of va
 Turned the pack into an add-on rather than a full resource pack
 
 ### Added
+- Emissive Totem of undying
+- Emissive Glowstone
 - Mossy cobblestone moss color change in nether biomes
 - Nether portal color change in nether biomes
 - Custom potion cork depending on effect (longer duration or stronger effect)
