@@ -15,6 +15,7 @@
 Turned the pack into an add-on rather than a full resource pack
 
 ## Added
+- Bucket matching the fish inside
 - Icons on enchantment text
 - End custom sky
 - Sand
