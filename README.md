@@ -1,7 +1,7 @@
 The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of various online ressoruces and custom creation from its author.
 
 ### Credit:
-    - Sama faithful
+  - Sama faithful
 	- John Smith
 	- Conquest
 	- Onigiri pack
