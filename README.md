@@ -16,7 +16,7 @@ The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of va
 - Stacked item return (for arrows at least)
 - New trapped chest texture
 - Suspicious Gravel
-- round non-strip wood
+- Cherry log_top should be round
 - Jukebox have no cd when not playing music
 - Emiissive texture for glowstone should onyl be the highlight
 - Totem of undying green part emissive
