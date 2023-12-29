@@ -1,5 +1,5 @@
 # To Do
-- Better GUI
+- Fix villager GUI
 - Stacked item return (for arrows at least)
 - New trapped chest texture
 - Suspicious Gravel
@@ -8,14 +8,28 @@
 - Emiissive texture for glowstone should onyl be the highlight
 - Totem of undying green part emissive
 - Glittering watermelon, glittering part should be emissive
-- Nether portal color biome dependant (red in crimson forest, blue in warped forest, soul fire color in soul sand valley, dark/black in basalt delta, deault in other biome, cf: https://minecraft.fr/wp-content/uploads/2020/04/new-default-plus-nether.jpg)
-- Take end sky from new default+
+- Nether portal color biome dependant (red in crimson forest, blue in warped forest, soul fire color in soul sand valley, dark/black in basalt delta, deault in other biome) cf: https://minecraft.fr/wp-content/uploads/2020/04/new-default-plus-nether.jpg
+- Better end sky
+- Bucket matching the fish inside (axolotl and tropical fish)
+- Suspicious stew custom texture for each type of stew
+- Custom appearance for enchanted items (flame if enchanted with fire aspect, wider blade for sweeping edge, etc.) cf: https://www.planetminecraft.com/texture-pack/armor-amp-tools-visual-enchantments-and-durability/
+  - Tools ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-tools/
+  - Weapons ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-weapons/
+  - Armor ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-armors/
+  - visual enchantment ref: https://resourcepack.net/visual-enchantments-resource-pack/#gsc.tab=0
+  - sculk - mending
+  - fire - fire aspect/flame
+  - lightning - channeling
+  - bubbles - respiration
+- Locked hopper texture
+- Tipped arrow texture depending on potion effect
+
 
 # Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
 
 ## Added
-- Bucket matching the fish inside
+- Immersive GUI
 - Icons on enchantment text
 - End custom sky
 - Sand
