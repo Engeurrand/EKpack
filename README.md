@@ -23,8 +23,9 @@
   - bubbles - respiration
 - Locked hopper texture
 - Tipped arrow texture depending on potion effect (not just colors, icons)
-
-
+- Sugar_cane biome dependancy do not work anymore
+- Fix lilypad connected texture
+- Move crossbow file to optifine folder
 
 # Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
