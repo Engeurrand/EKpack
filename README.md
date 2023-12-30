@@ -39,15 +39,13 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 
 # To Do
 - Fix villager GUI
-- Stacked item return (for arrows at least)
+- Stacked item return (5+ arrow form a quiver)
 - New trapped chest texture
 - Suspicious Gravel
 - Cherry log_top should be round
-- Jukebox have no cd when not playing music
-- Glittering watermelon, glittering part should be emissive
-- Nether portal color biome dependant (red in crimson forest, blue in warped forest, soul fire color in soul sand valley, dark/black in basalt delta, deault in other biome) cf: https://minecraft.fr/wp-content/uploads/2020/04/new-default-plus-nether.jpg
+- Jukebox have no cd when not playing music (texture made, only blockstate and model to do)
 - Bucket matching the fish inside (axolotl and tropical fish)
-- Suspicious stew custom texture for each type of stew
+- Suspicious stew custom texture for each type of stew (texture already in optfiine/cit)
 - nether wart blue in warped forest and soul sand valley
 - Custom appearance for enchanted items (flame if enchanted with fire aspect, wider blade for sweeping edge, etc.) cf: https://www.planetminecraft.com/texture-pack/armor-amp-tools-visual-enchantments-and-durability/
   - Tools ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-tools/
