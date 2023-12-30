@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/vines" },
+            { "model": "block/vines/0" },
+			{ "model": "block/vines/1" },
+			{ "model": "block/vines/2" },
+			{ "model": "block/vines/3" }
+        ]
+    }
+}
