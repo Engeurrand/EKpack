@@ -65,7 +65,7 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 
 # Changelog
 ## Minecraft Java 1.20.2
-Huge update on the pack after all that time. THe pack is now an **add-on** for the faithful 32x rather than a full ressource pack. TUrning the pack into an **add-on** make it easier to maintain and update.
+Huge update on the pack after all that time. THe pack is now an **add-on** for the faithful 32x rather than a full ressource pack. Turning the pack into an **add-on** make it easier to maintain and update.
 
 ### Added
 - Acacia stripped log top - Round log
