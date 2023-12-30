@@ -1,8 +1,6 @@
 {
-  "parent": "item/bushy_leaves_inventory",
-  "textures": {
-    "cube": "block/spruce_leaves",
-    "bushy": "block/spruce_leaves_bushy",
-    "bushy2": "block/spruce_leaves_bushy2" 
-  }
+    "parent": "block/leaves_vanilla",
+    "textures": {
+        "all": "blocks/leaves_spruce"
+    }
 }

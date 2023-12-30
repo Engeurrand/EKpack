@@ -1,0 +1,1 @@
+{    "__comment": "Created by JWire modified by Steven",    "parent": "block/leaves",    "textures": {        "particle": "blocks/leaves_big_oak",        "bleaves": "blocks/better_leaves_big_oak",        "block": "blocks/leaves_big_oak"    }}
