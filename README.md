@@ -44,6 +44,9 @@ The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of va
 Turned the pack into an add-on rather than a full resource pack
 
 ### Added
+- Connected brciks textures
+- Overlay for atural blocks
+- Connected planks texture
 - Repeater visiblity
 - Redstone power level visible on redstone
 - Emissive Totem of undying
