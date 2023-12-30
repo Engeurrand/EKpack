@@ -36,11 +36,16 @@ The EKpack is a custom creation by EleKTriiK sarting in 2016. It use a mix of va
 - Tipped arrow texture depending on potion effect (not just colors, icons)
 - Sugar_cane biome dependancy do not work anymore
 - Remake custom pressure plate to show the number of item on them
+- Changes the fire part of the furnace, smoker and blast furnace to be blue like the soul sand valley when in the soul sand valley.
+- Dirtybricks (add bricks variation for classic bricks) red: https://www.curseforge.com/minecraft/texture-packs/vaders-dirty-faithful-bricks-pack
+
 
 ## Minecraft Java 1.20.2
 Turned the pack into an add-on rather than a full resource pack
 
 ### Added
+- Repeater visiblity
+- Redstone power level visible on redstone
 - Emissive Totem of undying
 - Emissive Glowstone
 - Mossy cobblestone moss color change in nether biomes
