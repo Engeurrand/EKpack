@@ -263,6 +263,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Dirt path - Long side
 - Elytra - Specific texture if renamed dragon (Optifine required)
 - Enchanted Book - Specific texture based on enchantement (Optifine required)
+- Fire - Low fire
 - GUI - Immersive GUI
 - Golden tools - SamaFaithful texture
 - Jungle leaves - Bushy leaves
