@@ -60,10 +60,9 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Tipped arrow texture depending on potion effect (not just colors, icons)
 - Sugar_cane biome dependancy do not work anymore
 - Remake custom pressure plate to show the number of item on them
-- Changes the fire part of the furnace, smoker and blast furnace to be blue like the soul sand valley when in the soul sand valley.
 - Dirtybricks (add bricks variation for classic bricks) red: https://www.curseforge.com/minecraft/texture-packs/vaders-dirty-faithful-bricks-pack
-- Change birch leaves and grass colormap to turn birch forests into autumn biomes (ref: https://www.minecraft-france.fr/resource-pack-refreshed/)
-- Overlay pour table de crat (comme les bookshelves) pour quelles changes de couleurs de bois en fonctions des bois a proximite
+- Change birch leaves and grass colormap to turn birch forests into autumn biomes (ref: https://www.minecraft-france.fr/resource-pack-refreshed/) use new default+
+- Overlay pour table de craft (comme les bookshelves) pour quelles changes de couleurs de bois en fonctions des bois a proximite
 
 # Changelog
 ## Minecraft Java 1.20.2
@@ -192,6 +191,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Emissiveg glint particle (Optifine required)
 - End sky - Custom (Optifine required)
 - Farmland - Moisture level
+- Furnace - Biome dependant (Optifine required)
 - Glowing item frame - SamaFaithful texture
 - Goat Horn - Specific texture based on horn type (Optifine required)
 - Grass block - Overlay (Optifine required)
