@@ -62,6 +62,8 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Remake custom pressure plate to show the number of item on them
 - Changes the fire part of the furnace, smoker and blast furnace to be blue like the soul sand valley when in the soul sand valley.
 - Dirtybricks (add bricks variation for classic bricks) red: https://www.curseforge.com/minecraft/texture-packs/vaders-dirty-faithful-bricks-pack
+- Change birch leaves and grass colormap to turn birch forests into autumn biomes (ref: https://www.minecraft-france.fr/resource-pack-refreshed/)
+- Overlay pour table de crat (comme les bookshelves) pour quelles changes de couleurs de bois en fonctions des bois a proximite
 
 # Changelog
 ## Minecraft Java 1.20.2
@@ -86,6 +88,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Clay - Overlay (Optifine required)
 - Coarse dirt - Overlay (Optifine required)
 - Composter - Level
+- Cornflower - JohnSmith texture
 - Cracked deepslate bricks - Overlay (Optifine required)
 - Cracked polished blackstone bricks - Overlay (Optifine required)
 - Crimson nylium - Overlay (Optifine required)
@@ -197,6 +200,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Jungle planks - Overlay (Optifine required)
 - Jungle stripped log top - Round log
 - Kelp - Age 25 flowers
+- Lily of the Valley - JohnSmith texture
 - Mangrove log top - Round log
 - Mangrove planks - Overlay (Optifine required)
 - Mangrove stripped log top - Round log
@@ -241,6 +245,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Warped planks - Overlay (Optifine required)
 - Water bucket - Animated
 - Weeping vines - Age 25 flowers
+- Wither Rose - JohnSmith texture
 - Wooden tools - SamaFaithful texture
 - daylight sensor - Levelw
 
