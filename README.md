@@ -233,6 +233,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Target block - Level
 - Text
   - Enchantement - Color change
+  - Enchantement - Icons
   - Advancement - Color change
   - Effect - Color change
   - Cooked porkchop - Renamed: Saucisson
