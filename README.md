@@ -101,6 +101,19 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Dirt - Overlay (Optifine required)
 - Dispenser - Directional arrow
 - Dropper - Directional arrow
+- Elytra - Specific texture for durability (Optifine required)
+- Elytra - Specific texture if renamed Angel (Optifine required)
+- Elytra - Specific texture if renamed Barn Owl (Optifine required)
+- Elytra - Specific texture if renamed Blue Jay (Optifine required)
+- Elytra - Specific texture if renamed Butterfly (Optifine required)
+- Elytra - Specific texture if renamed Cardinal (Optifine required)
+- Elytra - Specific texture if renamed Da Vinci (Optifine required)
+- Elytra - Specific texture if renamed Fairy (Optifine required)
+- Elytra - Specific texture if renamed Jay (Optifine required)
+- Elytra - Specific texture if renamed Ladybug (Optifine required)
+- Elytra - Specific texture if renamed Magpie (Optifine required)
+- Elytra - Specific texture if renamed Moth (Optifine required)
+- Elytra - Specific texture if renamed Snow Owl (Optifine required)
 - Emissive Glowstone (Optifine required)
 - Emissive Glowstone dust (Optifine required)
 - Emissive Nether gold (Optifine required)
@@ -248,7 +261,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Weeping vines - Age 25 flowers
 - Wither Rose - JohnSmith texture
 - Wooden tools - SamaFaithful texture
-- daylight sensor - Levelw
+- daylight sensor - Level
 
 ### Updated
 - Acacia leaves - Bushy leaves
