@@ -36,6 +36,8 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Visible Age - https://faithfulpack.net/addons/age
 - Fancy Skies
 - Redstone Tools
+- Fire Keeper - https://www.planetminecraft.com/texture-pack/the-soul-fire-keeper/
+- Sculk Gear - https://www.planetminecraft.com/texture-pack/sirriesling-s-sculk-tools-1-16-1-19-x/
 
 # To Do
 - Fix villager GUI
@@ -52,11 +54,9 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
   - Weapons ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-weapons/
   - Armor ref: https://www.planetminecraft.com/texture-pack/miles-enchanted-armors/
   - visual enchantment ref: https://resourcepack.net/visual-enchantments-resource-pack/#gsc.tab=0
-  - sculk - mending
-  - fire - fire aspect/flame
   - lightning - channeling
   - bubbles - respiration
-- Locked hopper texture
+- Locked hopper texture (ref: https://www.planetminecraft.com/texture-pack/xxvi-s-locked-hoppers/)
 - Tipped arrow texture depending on potion effect (not just colors, icons)
 - Sugar_cane biome dependancy do not work anymore
 - Remake custom pressure plate to show the number of item on them
@@ -98,6 +98,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Dark oak planks - Overlay (Optifine required)
 - Dark oak stripped log top - Round log
 - Deepslate bircks - Overlay (Optifine required)
+- Diamond armors - Specific texture based on enchantement, fire protection (Optifine required) 
 - Dirt - Overlay (Optifine required)
 - Dispenser - Directional arrow
 - Dropper - Directional arrow
@@ -225,8 +226,12 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Nether portal - Biome dependant (Optifine required)
 - Netherack - Overlay (Optifine required)
 - Netherite armors - SamaFaithful texture
+- Netherite armors - Specific texture based on enchantement, fire protection (Optifine required) 
+- Netherite armors - Specific texture based on enchantement, mending (Optifine required) 
 - Netherite tools - Breaking texture evolution
 - Netherite tools - SamaFaithful texture
+- Netherite tools - Specific texture based on enchantement, mending (Optifine required)
+- Netherite sword - Specific texture based on enchantement, fire aspect (Optifine required) 
 - Noteblock - Display note and instrument
 - Oak planks - Overlay (Optifine required)
 - Oak stripped log top - Round log
@@ -274,6 +279,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Dark oak leaves - Bushy leaves
 - Dark oak sapling - Growth stage
 - Dirt path - Long side
+- Diamond sword - Specific texture based on enchantement, fire aspect (Optifine required) 
 - Elytra - Specific texture if renamed dragon (Optifine required)
 - Enchanted Book - Specific texture based on enchantement (Optifine required)
 - Fire - Low fire
