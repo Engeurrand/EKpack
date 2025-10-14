@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": "Version 3.1\nAdd-on for Faithful x32 par EleKTriiK",
+    "supported_formats": {
+      "min_inclusive": 43,
+      "max_inclusive": 64
+    }
+  }
+}

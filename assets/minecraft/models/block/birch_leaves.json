@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/leaves_cross",
+  "textures": {
+		"bushy2": "block/birch_leaves_bushy2",
+		"bushy": "block/birch_leaves_bushy",
+		"particle": "block/birch_leaves",
+		"cube": "block/birch_leaves"
+  }
+}

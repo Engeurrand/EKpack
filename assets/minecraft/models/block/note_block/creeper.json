@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "particle": "block/note_block",
+      "north": "block/note_block/side/creeper",
+      "south": "block/note_block/side/creeper",
+      "east": "block/note_block/side/creeper",
+      "west": "block/note_block/side/creeper",
+      "up": "block/note_block_top",
+      "down": "block/note_block_bottom"
+    }
+  }

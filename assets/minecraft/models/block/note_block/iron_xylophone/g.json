@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "particle": "block/note_block",
+      "north": "block/note_block/side/g",
+      "south": "block/note_block/side/g",
+      "east": "block/note_block/side/g",
+      "west": "block/note_block/side/g",
+      "up": "block/note_block/top/iron_xylophone/g",
+      "down": "block/note_block_bottom"
+    }
+  }

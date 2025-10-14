@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/birch_leaves"},
+			{ "model": "block/birch_leaves", "y": 90, "uvlock": true},
+            { "model": "block/birch_leaves", "y": 180, "uvlock": true},
+			{ "model": "block/birch_leaves", "y": 270, "uvlock": true}
+        ]
+    }
+}
