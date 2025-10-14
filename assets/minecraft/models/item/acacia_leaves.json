@@ -1,8 +1,0 @@
-{
-  "parent": "item/bushy_leaves_inventory",
-  "textures": {
-    "cube": "block/acacia_leaves",
-    "bushy": "block/acacia_leaves_bushy",
-    "bushy2": "block/acacia_leaves_bushy2" 
-  }
-}
