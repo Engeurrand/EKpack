@@ -10,7 +10,6 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Soartex - https://soartex.net/
 - Davpack
 - NewDefault+ (ideas) - https://powerups4u.wixsite.com/seaofpixels/downloads
-- 2D Bed Icons - https://faithfulpack.net/addons/2d-bed-icons
 - Vanilla Tweak (ideas) - https://vanillatweaks.net/picker/resource-packs/
 - Hunger Preview - https://faithfulpack.net/addons/HungerPreview32x
 - Long Grass - https://faithfulpack.net/addons/LongGrass
@@ -36,13 +35,18 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Visible Age - https://faithfulpack.net/addons/age
 - Fancy Skies
 - Redstone Tools
+- Eating Animation - https://faithfulpack.net/addons/eating-animations-for-faithful
+- Enhanced painting items - https://faithfulpack.net/addons/enhanced-painting-items
 
 # To Do
+- Add seed for sapling of new trees (pale tree etc...)
+- Fix farmland side
 - Fix villager GUI
 - Stacked item return (5+ arrow form a quiver)
 - New trapped chest texture
 - Suspicious Gravel
 - Cherry log_top should be round
+- Pale tree log_top should be round
 - Jukebox have no cd when not playing music (texture made, only blockstate and model to do)
 - Bucket matching the fish inside (axolotl and tropical fish)
 - Suspicious stew custom texture for each type of stew (texture already in optfiine/cit)
@@ -64,6 +68,22 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Dirtybricks (add bricks variation for classic bricks) red: https://www.curseforge.com/minecraft/texture-packs/vaders-dirty-faithful-bricks-pack
 
 # Changelog
+## Minecraft Java 1.21.10
+Update almost 2 years later for the latest minecraft version, a lot of things working with optifine in 1.20.2 don't work anymore, a lot of fixes to do for this version of the ressource pack, and new things to add too.
+
+### Added
+- pale tree bushy leaves
+- cherry bushy leaves
+- Mangrove bushy leaves
+- Azalea bushy leaves
+- More accurate painting items
+- eating animation
+
+### Removed
+- 2d bed icons (not working)
+- Green apple
+- Blue golden apple
+
 ## Minecraft Java 1.20.2
 Huge update on the pack after all that time. THe pack is now an **add-on** for the faithful 32x rather than a full ressource pack. Turning the pack into an **add-on** make it easier to maintain and update.
 
