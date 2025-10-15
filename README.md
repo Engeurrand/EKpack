@@ -39,6 +39,9 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Enhanced painting items - https://faithfulpack.net/addons/enhanced-painting-items
 
 # To Do
+- Fix tool breaking stage
+- Fix armor models
+- Fix custom enchanted books items 
 - Add seed for sapling of new trees (pale tree etc...)
 - Fix farmland side
 - Fix villager GUI
