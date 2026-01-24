@@ -25,7 +25,6 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Better Infested - https://faithfulpack.net/addons/betterinfested
 - Visualized Enchanted Book - https://faithfulpack.net/addons/VisualizedEnchantedBooks
 - Visual Note - https://faithfulpack.net/addons/note
-- Accurate Scaffold - https://faithfulpack.net/addons/AccurateScaffold
 - Blockstate Indicator - https://faithfulpack.net/addons/Blockstates
 - Bushy Leaves - https://faithfulpack.net/addons/BushyLeaves
 - Campfire Recreation - https://faithfulpack.net/addons/campfire
@@ -59,12 +58,23 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 - Remake custom pressure plate to show the number of item on them
 - Changes the fire part of the furnace, smoker and blast furnace to be blue like the soul sand valley when in the soul sand valley.
 - Dirtybricks (add bricks variation for classic bricks) red: https://www.curseforge.com/minecraft/texture-packs/vaders-dirty-faithful-bricks-pack
+- 3D:
+	- Farmalnd from faithful 3D ?
+	- iron and copper bar from faithful 3D
 
 # Changelog
-## Minecraft Java 1.20.2
-Huge update on the pack after all that time. THe pack is now an **add-on** for the faithful 32x rather than a full ressource pack. Turning the pack into an **add-on** make it easier to maintain and update.
+## Minecraft Java 1.21.11
+Fixed penty of old issues with the pack.
 
 ### Added
+- Visual enchanted book
+- Yellow waxed copper block
+- Armor stand model
+- Lilly pad and 3D model
+- Doors 3D
+- Trapdoors 3D
+- Rails 3D
+- Fix bed item
 - Acacia stripped log top - Round log
 - Azalea - SamaFaithful texture
 - Bamboo planks - Overlay (Optifine required)
@@ -136,7 +146,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Emissive flame particle (Optifine required)
 - Emissive ghast eye (Optifine required)
 - Emissive glow berries (Optifine required)
-- Emissive glow ink scaffolding (Optifine required)
+- Emissive glow ink (Optifine required)
 - Emissive glow lichen (Optifine required)
 - Emissive glow particle (Optifine required)
 - Emissive glow squid patern (Optifine required)
@@ -215,7 +225,6 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - Pumkin stem - pumpkin colroed
 - Red sand - Overlay (Optifine required)
 - Redstone dust line - Power level indicator
-- Scaffolding - Bamboo colored
 - Sculk sensor - Level
 - Shulker - GUI color change (Optifine required)
 - Snow block - Overlay (Optifine required)
@@ -242,6 +251,7 @@ Huge update on the pack after all that time. THe pack is now an **add-on** for t
 - daylight sensor - Levelw
 
 ### Updated
+- Bedrock
 - Acacia leaves - Bushy leaves
 - Birch leaves - Bushy leaves
 - Birch sapling - Growth stage
@@ -282,8 +292,6 @@ Removed old content that couldn't be updated, incoherent texture variations, 3D 
   - Cauldron
   - Doors
   - Furnace
-  - Rails
-  - Trapdoors
 - Acacia Leaves - Conquest Textures
 - Beetroots
 - Birch door
