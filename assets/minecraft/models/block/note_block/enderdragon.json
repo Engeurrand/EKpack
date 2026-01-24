@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+      "particle": "block/note_block",
+      "north": "block/note_block/side/enderdragon",
+      "south": "block/note_block/side/enderdragon",
+      "east": "block/note_block/side/enderdragon",
+      "west": "block/note_block/side/enderdragon",
+      "up": "block/note_block_top",
+      "down": "block/note_block_bottom"
+    }
+  }
