@@ -39,7 +39,6 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 # To Do
 - Stacked item return (5+ arrow form a quiver)
 - New trapped chest texture
-- Suspicious Gravel
 - Cherry log_top should be round
 - Jukebox have no cd when not playing music (texture made, only blockstate and model to do)
 - Bucket matching the fish inside (axolotl and tropical fish)
@@ -67,6 +66,8 @@ THe EKpack is driven by what inspire the author, may it be other ressource pack,
 Fixed penty of old issues with the pack.
 
 ### Added
+- Suspicious Gravel
+- Suspicious Sand
 - Visual enchanted book
 - Yellow waxed copper block
 - Armor stand model
